@@ -21,7 +21,7 @@ This app demonstrates the following views and techniques:
 
 ## Screenshots
 
-![Screenshot1](screenshots/AboutMeScreenshots.png)
+![Screenshot1](https://raw.githubusercontent.com/udacity/andfun-kotlin-about-me/master/screenshots/AboutMeScreenshots.png)
 
 ## How to use this repo while taking the course
 
